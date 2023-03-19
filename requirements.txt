@@ -1,0 +1,9 @@
+paddlepaddle-gpu
+numpy
+scipy
+tqdm
+pytest-runner
+librosa
+python-Levenshtein
+visualdl
+SoundFile
